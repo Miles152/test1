@@ -1,7 +1,2 @@
 String 1
 String 2
---------
-=======
-Str1
-Str2
->>>>>>> remotes/Test/master
